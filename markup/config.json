@@ -1,0 +1,12 @@
+{
+    "classes":[
+        "person",
+        "tractor",
+        "truck",
+        "car"
+    ],
+    "dataset_ratio":{
+        "test": 0.1,
+        "val": 0.2
+    }
+}
