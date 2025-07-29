@@ -1,0 +1,9 @@
+path: path_to_dataset
+train: images/train
+val: images/val
+
+names: 
+  0: person
+  1: tractor
+  2: truck
+  3: car
